@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo Check</string>
+    <string name="add_task">Adicionar Tarefa</string>
+    <string name="task_title_hint">Título da Tarefa</string>
+    <string name="task_description_hint">Descrição da Tarefa</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Excluir</string>
+    <string name="edit">Editar</string>
+    <string name="task_icon">Ícone da Tarefa</string>
+    <string name="no_tasks">Nenhuma tarefa cadastrada</string>
+    <string name="task_added">Tarefa adicionada com sucesso!</string>
+    <string name="task_deleted">Tarefa excluída com sucesso!</string>
+    <string name="task_updated">Tarefa atualizada com sucesso!</string>
+    <string name="choose_image">Escolha uma imagem</string>
+</resources>
